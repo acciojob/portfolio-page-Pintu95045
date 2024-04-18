@@ -1,4 +1,8 @@
-/* Your CSS Code here. */
-#img{
-	height:150px
+#img {
+    height: 150px;
+}
+
+/* Add some spacing between sections */
+section {
+    margin-bottom: 20px;
 }
